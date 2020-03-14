@@ -1,4 +1,4 @@
-covid-19-substitutions
+Covid-19-substitutions
 ==================
 
 Being optimistic in times of a widespread emergency is not easy. Maybe replacing all mentions with of a dangerous virus and disease with something more light-hearted will help us keep a healthier outlook towards our daily routines and life in general.
