@@ -2,7 +2,8 @@
 var default_replacements = [
   ['covid-19', 'grumpy cat memes'],
   ['cornavirus', 'bad hair day'],
-  ['coronaviruses', 'puzzles missing a piece']
+  ['coronaviruses', 'puzzles missing a piece'],
+  ['quarantine', 'home dance-off competition']
 ];
 
 //Default Blacklist
