@@ -17,7 +17,8 @@ var default_blacklisted_sites = [
   "mail.yahoo.com",
   "outlook.com",
   "xkcd.com",
-  "github.com"
+  "github.com",
+  "who.int"
 ];
 
 var debug = false;
