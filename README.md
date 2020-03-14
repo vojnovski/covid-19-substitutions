@@ -1,14 +1,9 @@
-xkcd-substitutions
+covid-19-substitutions
 ==================
 
-xkcd substitutions chrome extension
+Being optimistic in times of a widespread emergency is not easy. Maybe replacing all mentions with of a dangerous virus and disease with something more light-hearted will help us keep a healthier outlook towards our daily routines and life in general.
 
-All credit to XKCD.  
-https://xkcd.com/1288/
-https://xkcd.com/1625/
+This extension replaces every mention of COVID-19 and Coronavirus in every page that you visit with something more benign and lighthearted.
 
-some other xkcd jokes have made it into the newest version.
-https://xkcd.com/1004/
-https://xkcd.com/1418/
-https://xkcd.com/1031/
-https://xkcd.com/1625/
+Inspired by https://github.com/Posnet/xkcd-substitutions.
+
