@@ -4,7 +4,8 @@ var default_replacements = [
   ['coronavirus', 'bad hair day'],
   ['coronaviruses', 'puzzles missing a piece'],
   ['quarantine', 'home dance-off competition'],
-  ['pandemic', 'global baking sale']
+  ['pandemic', 'global baking sale'],
+  ['virus', 'flat tire']
 ];
 
 //Default Blacklist
