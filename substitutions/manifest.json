@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "COVID-19 substitutions",
   "description": "Making the web a more optimistic place.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "options_page": "html/config.html",
   "browser_action": {
     "default_icon": {
