@@ -94,7 +94,7 @@ function toggleActive() {
         "path": "images/disabled.png"
       };
       message = {
-        "title": "click to enable xkcd substitutions"
+        "title": "click to enable Covid-19 substitutions"
       };
       status = "disabled";
     } else if (status === "disabled") {
@@ -102,7 +102,7 @@ function toggleActive() {
         "path": "images/enabled.png"
       };
       message = {
-        "title": "click to disabled xkcd substitutions"
+        "title": "click to disable Covid-19 substitutions"
       };
       status = "enabled";
     }
