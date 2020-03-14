@@ -1,9 +1,10 @@
 //Default replacements
 var default_replacements = [
   ['covid-19', 'grumpy cat memes'],
-  ['cornavirus', 'bad hair day'],
+  ['coronavirus', 'bad hair day'],
   ['coronaviruses', 'puzzles missing a piece'],
-  ['quarantine', 'home dance-off competition']
+  ['quarantine', 'home dance-off competition'],
+  ['pandemic', 'global baking sale']
 ];
 
 //Default Blacklist
@@ -14,7 +15,8 @@ var default_blacklisted_sites = [
   "inbox.google.com",
   "mail.yahoo.com",
   "outlook.com",
-  "xkcd.com"
+  "xkcd.com",
+  "github.com"
 ];
 
 var debug = false;
