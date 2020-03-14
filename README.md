@@ -10,7 +10,7 @@ What it looks like:
 ![CNN](screenshots/screenshot1.jpg)
 ![The Guardian](screenshots/screenshot2.jpg)
 
-That said, what we are currently living is unprecedented, more info on how to protect ourselves and our family here: https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+That said, what we are currently living is unprecedented, more info on how to protect ourselves and our families here: https://www.who.int/emergencies/diseases/novel-coronavirus-2019
 
 Inspired by https://github.com/Posnet/xkcd-substitutions.
 
